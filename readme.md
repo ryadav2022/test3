@@ -9,3 +9,9 @@ html
 css
 JS
 React
+Angular
+Vue
+Json
+Mardown
+XML
+
