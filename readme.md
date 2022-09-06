@@ -7,4 +7,5 @@ Name of all the pages
 # Technology
 html
 css
-JV
+JS
+React
